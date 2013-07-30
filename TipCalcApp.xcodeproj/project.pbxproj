@@ -16,23 +16,54 @@
 		FA346B0415EC745200980FC0 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA346B0215EC745200980FC0 /* MainWindow.xib */; };
 		FA346B0715EC745300980FC0 /* TipCalcAppViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA346B0615EC745300980FC0 /* TipCalcAppViewController.m */; };
 		FA346B0A15EC745300980FC0 /* TipCalcAppViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = FA346B0815EC745300980FC0 /* TipCalcAppViewController.xib */; };
+		FA43AA0E16193BD0004D50B7 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA43AA0D16193BD0004D50B7 /* Default-568h@2x.png */; };
+		FA5A237A163E3130005016BC /* FrontLogo_small.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A2379163E3130005016BC /* FrontLogo_small.png */; };
+		FA5A237F163E3268005016BC /* LogoText.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A237E163E3268005016BC /* LogoText.png */; };
+		FA5A2386163E3E69005016BC /* LaunchScreen_temp.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A2385163E3E68005016BC /* LaunchScreen_temp.png */; };
+		FA5A2387163E3E6E005016BC /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = FA03D78B15F45DEB001AB0E0 /* Default.png */; };
+		FA5A238D163E3FAE005016BC /* LaunchScreen_temp_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A238B163E3FAE005016BC /* LaunchScreen_temp_retina.png */; };
+		FA5A238F163E3FB5005016BC /* Icon_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A238E163E3FB5005016BC /* Icon_retina.png */; };
+		FA5A2391163E3FBA005016BC /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A2390163E3FB9005016BC /* Default@2x.png */; };
+		FA5A2395163E41EB005016BC /* Texture.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A2394163E41EB005016BC /* Texture.png */; };
+		FA5F96C81655F8D7004ECE29 /* Icon_retina.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A238A163E3FAE005016BC /* Icon_retina.png */; };
+		FA5F96C91655F8DA004ECE29 /* Icon.png in Resources */ = {isa = PBXBuildFile; fileRef = FA5A2388163E3F05005016BC /* Icon.png */; };
+		FA6B65591655EB12005157DB /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FA6B65581655EB12005157DB /* MainStoryboard.storyboard */; };
+		FABC51F9163E30A400CDF9AE /* Background.pxm in Resources */ = {isa = PBXBuildFile; fileRef = FABC51F6163E30A400CDF9AE /* Background.pxm */; };
+		FABC51FA163E30A400CDF9AE /* FrontLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = FABC51F7163E30A400CDF9AE /* FrontLogo.png */; };
+		FABC51FB163E30A400CDF9AE /* Logo.pxm in Resources */ = {isa = PBXBuildFile; fileRef = FABC51F8163E30A400CDF9AE /* Logo.pxm */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FA03D78815F45D80001AB0E0 /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../Icon.png; sourceTree = "<group>"; };
+		FA03D78B15F45DEB001AB0E0 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Default.png; path = ../Default.png; sourceTree = "<group>"; };
 		FA346AEC15EC745100980FC0 /* TipCalcApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipCalcApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FA346AF015EC745100980FC0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		FA346AF215EC745100980FC0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		FA346AF415EC745100980FC0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		FA346AF815EC745100980FC0 /* TipCalcApp-Info.plist */ = {isa = PBXFileReference; path = "TipCalcApp-Info.plist"; sourceTree = "<group>"; };
+		FA346AF815EC745100980FC0 /* TipCalcApp-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TipCalcApp-Info.plist"; sourceTree = "<group>"; };
 		FA346AFA15EC745100980FC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		FA346AFC15EC745200980FC0 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		FA346AFE15EC745200980FC0 /* TipCalcApp-Prefix.pch */ = {isa = PBXFileReference; path = "TipCalcApp-Prefix.pch"; sourceTree = "<group>"; };
-		FA346AFF15EC745200980FC0 /* TipCalcAppAppDelegate.h */ = {isa = PBXFileReference; path = TipCalcAppAppDelegate.h; sourceTree = "<group>"; };
+		FA346AFE15EC745200980FC0 /* TipCalcApp-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TipCalcApp-Prefix.pch"; sourceTree = "<group>"; };
+		FA346AFF15EC745200980FC0 /* TipCalcAppAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TipCalcAppAppDelegate.h; sourceTree = "<group>"; };
 		FA346B0015EC745200980FC0 /* TipCalcAppAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TipCalcAppAppDelegate.m; sourceTree = "<group>"; };
 		FA346B0315EC745200980FC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		FA346B0515EC745300980FC0 /* TipCalcAppViewController.h */ = {isa = PBXFileReference; path = TipCalcAppViewController.h; sourceTree = "<group>"; };
+		FA346B0515EC745300980FC0 /* TipCalcAppViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TipCalcAppViewController.h; sourceTree = "<group>"; };
 		FA346B0615EC745300980FC0 /* TipCalcAppViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TipCalcAppViewController.m; sourceTree = "<group>"; };
 		FA346B0915EC745300980FC0 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/TipCalcAppViewController.xib; sourceTree = "<group>"; };
+		FA43AA0D16193BD0004D50B7 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default-568h@2x.png"; path = "../Default-568h@2x.png"; sourceTree = "<group>"; };
+		FA5A2379163E3130005016BC /* FrontLogo_small.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FrontLogo_small.png; sourceTree = "<group>"; };
+		FA5A237E163E3268005016BC /* LogoText.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LogoText.png; path = ../Assets/LogoText.png; sourceTree = "<group>"; };
+		FA5A2385163E3E68005016BC /* LaunchScreen_temp.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchScreen_temp.png; path = ../Assets/LaunchScreen_temp.png; sourceTree = "<group>"; };
+		FA5A2388163E3F05005016BC /* Icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon.png; path = ../Assets/Icon.png; sourceTree = "<group>"; };
+		FA5A238A163E3FAE005016BC /* Icon_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon_retina.png; path = ../Assets/Icon_retina.png; sourceTree = "<group>"; };
+		FA5A238B163E3FAE005016BC /* LaunchScreen_temp_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = LaunchScreen_temp_retina.png; path = ../Assets/LaunchScreen_temp_retina.png; sourceTree = "<group>"; };
+		FA5A238E163E3FB5005016BC /* Icon_retina.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = Icon_retina.png; path = ../Icon_retina.png; sourceTree = "<group>"; };
+		FA5A2390163E3FB9005016BC /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "Default@2x.png"; path = "../Default@2x.png"; sourceTree = "<group>"; };
+		FA5A2394163E41EB005016BC /* Texture.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Texture.png; sourceTree = "<group>"; };
+		FA6B65581655EB12005157DB /* MainStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = MainStoryboard.storyboard; sourceTree = "<group>"; };
+		FABC51F6163E30A400CDF9AE /* Background.pxm */ = {isa = PBXFileReference; lastKnownFileType = file; path = Background.pxm; sourceTree = "<group>"; };
+		FABC51F7163E30A400CDF9AE /* FrontLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FrontLogo.png; sourceTree = "<group>"; };
+		FABC51F8163E30A400CDF9AE /* Logo.pxm */ = {isa = PBXFileReference; lastKnownFileType = file; path = Logo.pxm; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,8 +115,10 @@
 				FA346B0215EC745200980FC0 /* MainWindow.xib */,
 				FA346B0515EC745300980FC0 /* TipCalcAppViewController.h */,
 				FA346B0615EC745300980FC0 /* TipCalcAppViewController.m */,
+				FA5A2394163E41EB005016BC /* Texture.png */,
 				FA346B0815EC745300980FC0 /* TipCalcAppViewController.xib */,
 				FA346AF715EC745100980FC0 /* Supporting Files */,
+				FABC51F5163E30A400CDF9AE /* Assets */,
 			);
 			path = TipCalcApp;
 			sourceTree = "<group>";
@@ -93,13 +126,35 @@
 		FA346AF715EC745100980FC0 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FA5A2390163E3FB9005016BC /* Default@2x.png */,
+				FA5A238E163E3FB5005016BC /* Icon_retina.png */,
+				FA5A238A163E3FAE005016BC /* Icon_retina.png */,
+				FA5A238B163E3FAE005016BC /* LaunchScreen_temp_retina.png */,
+				FA5A2388163E3F05005016BC /* Icon.png */,
+				FA5A2385163E3E68005016BC /* LaunchScreen_temp.png */,
+				FA5A237E163E3268005016BC /* LogoText.png */,
+				FA43AA0D16193BD0004D50B7 /* Default-568h@2x.png */,
+				FA03D78B15F45DEB001AB0E0 /* Default.png */,
+				FA03D78815F45D80001AB0E0 /* Icon.png */,
 				FA346AF815EC745100980FC0 /* TipCalcApp-Info.plist */,
 				FA346AF915EC745100980FC0 /* InfoPlist.strings */,
 				FA346AFC15EC745200980FC0 /* main.m */,
+				FA6B65581655EB12005157DB /* MainStoryboard.storyboard */,
 				FA346AFE15EC745200980FC0 /* TipCalcApp-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
+		};
+		FABC51F5163E30A400CDF9AE /* Assets */ = {
+			isa = PBXGroup;
+			children = (
+				FABC51F6163E30A400CDF9AE /* Background.pxm */,
+				FABC51F7163E30A400CDF9AE /* FrontLogo.png */,
+				FA5A2379163E3130005016BC /* FrontLogo_small.png */,
+				FABC51F8163E30A400CDF9AE /* Logo.pxm */,
+			);
+			path = Assets;
+			sourceTree = SOURCE_ROOT;
 		};
 /* End PBXGroup section */
 
@@ -126,6 +181,9 @@
 /* Begin PBXProject section */
 		FA346AE315EC745000980FC0 /* Project object */ = {
 			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0450;
+			};
 			buildConfigurationList = FA346AE615EC745000980FC0 /* Build configuration list for PBXProject "TipCalcApp" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
@@ -151,6 +209,21 @@
 				FA346AFB15EC745100980FC0 /* InfoPlist.strings in Resources */,
 				FA346B0415EC745200980FC0 /* MainWindow.xib in Resources */,
 				FA346B0A15EC745300980FC0 /* TipCalcAppViewController.xib in Resources */,
+				FA43AA0E16193BD0004D50B7 /* Default-568h@2x.png in Resources */,
+				FABC51F9163E30A400CDF9AE /* Background.pxm in Resources */,
+				FABC51FA163E30A400CDF9AE /* FrontLogo.png in Resources */,
+				FABC51FB163E30A400CDF9AE /* Logo.pxm in Resources */,
+				FA5A237A163E3130005016BC /* FrontLogo_small.png in Resources */,
+				FA5A237F163E3268005016BC /* LogoText.png in Resources */,
+				FA5A2386163E3E69005016BC /* LaunchScreen_temp.png in Resources */,
+				FA5A2387163E3E6E005016BC /* Default.png in Resources */,
+				FA5A238D163E3FAE005016BC /* LaunchScreen_temp_retina.png in Resources */,
+				FA5A238F163E3FB5005016BC /* Icon_retina.png in Resources */,
+				FA5A2391163E3FBA005016BC /* Default@2x.png in Resources */,
+				FA5A2395163E41EB005016BC /* Texture.png in Resources */,
+				FA6B65591655EB12005157DB /* MainStoryboard.storyboard in Resources */,
+				FA5F96C81655F8D7004ECE29 /* Icon_retina.png in Resources */,
+				FA5F96C91655F8DA004ECE29 /* Icon.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -245,7 +318,9 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TipCalcApp/TipCalcApp-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "TipCalcApp/TipCalcApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -256,7 +331,9 @@
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TipCalcApp/TipCalcApp-Prefix.pch";
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				INFOPLIST_FILE = "TipCalcApp/TipCalcApp-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -281,6 +358,7 @@
 				FA346B0F15EC745300980FC0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

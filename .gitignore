@@ -1,0 +1,10 @@
+# Ignore Pictures/Pixelmator
+*.jpg
+*.pxb
+*.pxm
+*.pxs
+*.png
+
+#Ignore Important Files
+TipCalcApp-Info.plist
+InfoPlist.strings
